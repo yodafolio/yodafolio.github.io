@@ -1,3 +1,14 @@
+
+node version
+```js
+node -v: 16.15.0
+npm -v: 8.5.5
+```
+
+- [ ] 에디터 선정
+- [ ] md파일 저장 경로 설정
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
