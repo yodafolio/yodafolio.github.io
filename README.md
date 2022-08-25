@@ -7,8 +7,23 @@ npm -v: 8.5.5
 
 - [ ] 에디터 선정
 - [ ] md파일 저장 경로 설정
+<br/>
+<br/>
 
+### 검색 키워드
+| github.io 만들기 | github blog |
 
+### 참고 자료
+[깃헙 블로그 만들기](https://supermemi.tistory.com/144)
+
+[깃헙 pages package.json 설정예시](https://hhyemi.github.io/2021/05/26/nextGit.html)
+
+[nextjs-typescript깃헙 action 배포(자동화) - 1](https://velog.io/@minseok_yun/GitHub-Action%EC%9C%BC%EB%A1%9C-Next.js-Typescript-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0)
+
+[nextjs-typescript깃헙 action 배포(자동화)- 2](https://velog.io/@ricale/next.js-%EB%A1%9C-GitHub-Pages-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0)
+
+---
+<br/>
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
